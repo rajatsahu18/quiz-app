@@ -1,0 +1,52 @@
+[
+    {
+        "title":"'OS' computer abbreviation usually means?",
+        "options":["Order of Significance","Open Software", "Operating System","None of these"],
+        "correctOptionIndex":2
+    },
+    {
+        "title":"Who is the founder of Seekho?",
+        "options":["Rohit Choudhary", "Deepender Goyal", "Rahul Chaari", "Kunal Shah"],
+        "correctOptionIndex":0
+    },
+    {
+        "title":"Most modern TV's draw power even if turned off. The circuit the power is used in does",
+        "options": ["Sound", "Remote control","Color balance","High voltage"],
+        "correctOptionIndex":1
+    },
+    {
+        "title": "Which one is a non-semantic tag?",
+        "options":["div", "table", "article", "form"],
+        "correctOptionIndex":0
+    },
+    {
+        "title":"Which motor is not suitable for use as a DC machine",
+        "options": ["Permanent magnet motor","Series motor", "Squirrel cage motor", "Synchronous motor"],
+        "correctOptionIndex":2
+    },
+    {
+        "title":"What is the full-form of CSS?",
+        "options":["Cascading Style Sheets", "Cascading Styling Sheets", "Couter Style Sheets", "Cascading Style Series"],
+        "correctOptionIndex":0
+    },
+    {
+        "title":"'.INI' extension refers usually to what kind of file?",
+        "options":["Image file","System file","Hypertext related file","None of these"],
+        "correctOptionIndex":1
+    },
+    {
+        "title":"Which consists of two plates separated by a distance and can store a charge?",
+        "options":["Capacitor", "Inductor", "Transistor", "Relay"],
+        "correctOptionIndex":0
+    },
+    {
+        "title": "Google was founded in which year",        
+        "options":["1997", "1998", "1999", "2000"],
+        "correctOptionIndex":1
+    },
+    {
+        "title": "Seekho was founded in which year",        
+        "options":["2014", "2020", "2016", "2021"],
+        "correctOptionIndex":1
+    }
+]
