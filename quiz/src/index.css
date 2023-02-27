@@ -134,6 +134,11 @@ button {
   border-top: 1px solid #eee;
 }
 
+.question .question-count {
+  text-align: center;
+  padding: 10px;
+}
+
 .result-screen {
   width: 100%;
   display: flex;
